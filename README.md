@@ -30,9 +30,9 @@ This project is a custom implementation of an IRC (Internet Relay Chat) server w
 
 ### **Prerequisites**
 
-- **C++ Compiler**: A C++98-compatible compiler (e.g., `g++`).
+- **C++ Compiler**: A C++98-compatible compiler (e.g., `c++`).
 - **Make**: For building the project.
-- **Official IRC Client**: Any IRC client like HexChat or mIRC to connect to the server.
+- **Official IRC Client**: Any IRC client like netcat or limeChat (For MacOs) to connect to the server.
 
 ### **Installation**
 
