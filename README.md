@@ -38,8 +38,8 @@ This project is a custom implementation of an IRC (Internet Relay Chat) server w
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/username/irc-server.git
-   cd irc-server
+   git clone https://github.com/username/ft_irc.git
+   cd ft_irc
 
 2. **run make**:  
 3. taraaaa here is your IRC server  
